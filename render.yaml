@@ -1,4 +1,4 @@
-nodservices:
+services:
   - type: web
     name: strapi
     env: node
